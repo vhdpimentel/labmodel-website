@@ -1,2 +1,2 @@
 # labmodel-website
-Nada por aqui ainda, estamos trabalhando.
+Site do Labmodel da UFRGS
